@@ -1,3 +1,4 @@
 # Bank Customer Churn Prediction System
 The repository is meant to predict customer churn in a banking dataset based on transaction history and demographics.
+<hr>
 Tech stack used: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook
